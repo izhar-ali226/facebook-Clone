@@ -1,0 +1,9 @@
+
+.app_body{
+    width: 100%;
+    background-color: #f1f2f5;
+    display: flex;
+}
+.app{
+    width: 100%;
+}
